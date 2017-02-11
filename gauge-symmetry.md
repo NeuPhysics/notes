@@ -1,11 +1,13 @@
 ---
-layout: notes
-title: "14.1.Gauge Symmetries and Lagrangian"
+layout: single
+title: "Gauge Symmetries and Lagrangian"
 date: 2016-08-25
-author: OctoMiao
+author: Lei Ma
 summary: Lagrangian
 ---
 
+Random notes for Section 14.1 of Halzen & Martin.
+{: .notice}
 
 ## Conserved Quantities
 
